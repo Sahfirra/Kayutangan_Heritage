@@ -659,3 +659,7 @@ padding-top: 60px;
 margin-top: -80px;
 font-size: 25px;
 }
+
+.welcome-index img, .card-image img, .maskot {
+      max-width: 100%;
+      height: auto;
